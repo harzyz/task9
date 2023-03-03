@@ -110,4 +110,8 @@
         display: inline-block;
         gap: 10px;
     }
+    .hold {
+        height: 200px;
+        object-fit: cover;
+    }
 }
